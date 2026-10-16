@@ -1,0 +1,21 @@
+# Utilitites
+numpy
+pandas
+
+
+# for face recogination or classification
+scikit-learn
+dlib-bin # it give stures of face  by makeing reactangle and gie algorithms
+
+git+https://github.com/ageitgey/face_recognition_models # it is a prediefined model it gives us the emeding of the face
+setuptools<70.0.0
+
+
+# database
+supabase
+bcrypt # it gives us the hasing methods to store passwords
+
+segno #for making qr code
+pillow # it help in image preprocessing
+
+streamlit
